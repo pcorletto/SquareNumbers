@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SquareNumbers</string>
+    <string name="number_prompt">Enter a number:  </string>
+    <string name="action_settings">Settings</string>
+    <string name="button_message">CLICK TO SQUARE</string>
+
+</resources>
